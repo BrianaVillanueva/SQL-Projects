@@ -7,4 +7,5 @@
 
 * Superstore Database: This project is analyzing store product data.
 * Fortune 500 Analysis: This project is comparing Top 500 companies to produce competitive insights.
-* Netflix Analysis (SQL Fiddle): This Project uses SQL Fiddle to analyze movies and tv shows on the mock Netflix database.
+* Netflix Analysis (SQL Fiddle): This project uses SQL Fiddle to analyze movies and tv shows on the mock Netflix database.
+* Order Analysis: This project is an analysis on customer's order data in different months.
