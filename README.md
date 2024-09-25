@@ -5,4 +5,5 @@
 
 
 
-* Superstore Database: This project contains an example of analyzing store product data.
+* Superstore Database: This project is analyzing store product data.
+* Fortune 500 Analysis: This project is comparing Top 500 companies to produce competitive insights.
