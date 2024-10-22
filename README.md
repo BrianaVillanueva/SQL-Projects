@@ -1,7 +1,7 @@
 #  Welcome to Briana Villanueva's SQL Portfolio
 ## This repository contains code solutions I've written for SQL projects.
 ### Please feel free to take a look and reach out if you have any furhter questions.
-#### _LinkedIn URL: www.linkedin.com/in/brianavillanueva Email: briana.n.villanueva@gmail.com_
+#### _LinkedIn URL: www.linkedin.com/in/brianavillanueva
 
 
 
